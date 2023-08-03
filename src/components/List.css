@@ -1,0 +1,12 @@
+#list ol{
+    color: red;
+}
+#list h1{
+    color: green;
+}
+#list{
+    margin-left: -20px;
+}
+#lists{
+    margin-left: 20%;
+}

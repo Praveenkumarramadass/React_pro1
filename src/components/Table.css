@@ -1,0 +1,11 @@
+table,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: lightgreen;
+}
+table{
+    margin-left: 20%;
+}
+#tab{
+    text-align: center;
+}
